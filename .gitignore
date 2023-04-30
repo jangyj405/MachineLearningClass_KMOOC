@@ -152,3 +152,5 @@ cython_debug/
 #.idea/
 week05/joydata.txt
 week06/data/
+
+data/
